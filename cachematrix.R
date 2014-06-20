@@ -1,7 +1,7 @@
 ## Solution to Coursera R Programming Programming Assigment 2
 ## 
 ## Set of functions to illustrate the use of the '<<-' operator,
-## which causes a search to made through parent environments for 
+## which causes a search to be made through parent environments for 
 ## an existing definition of the variable being assigned. If such 
 ## a variable is found (and its binding is not locked) then its 
 ## value is redefined, otherwise assignment takes place in the 
